@@ -48,3 +48,4 @@ node_modules/
 # Brain/Obsidian vault - exclude personal content if needed
 # Uncomment to exclude specific folders:
 # Brain/
+.local/

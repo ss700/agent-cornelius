@@ -15,3 +15,8 @@
 {"debug":"Connection established with capabilities: {\"hasTools\":true,\"hasPrompts\":false,\"hasResources\":false,\"hasResourceSubscribe\":false,\"serverVersion\":{\"name\":\"trinity-orchestrator\",\"version\":\"1.0.0\"}}","timestamp":"2026-04-08T13:34:58.262Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
 {"debug":"No token data found","timestamp":"2026-04-08T13:34:58.264Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
 {"debug":"No token data found","timestamp":"2026-04-08T13:34:58.265Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
+{"debug":"HTTP connection closed after 28s (cleanly)","timestamp":"2026-04-08T13:35:26.408Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
+{"debug":"Cleared connection cache for reconnection","timestamp":"2026-04-08T13:35:26.408Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
+{"debug":"HTTP connection dropped after 28s uptime","timestamp":"2026-04-08T13:35:26.409Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
+{"debug":"Connection error: SSE stream disconnected: AbortError: This operation was aborted","timestamp":"2026-04-08T13:35:26.409Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
+{"debug":"Terminal connection error 1/3","timestamp":"2026-04-08T13:35:26.409Z","sessionId":"24f8e14b-58ac-40f4-8b69-7f3644019e06","cwd":"/home/developer"}
